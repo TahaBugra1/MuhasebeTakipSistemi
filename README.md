@@ -29,4 +29,3 @@ Bu proje, kişisel veya küçük işletmelerin finansal işlemlerini (gelir/gide
 - `Islem` (Abstract): Tutar, Tarih, Kategori
 - `Gelir` ve `Gider`: `Islem` sınıfından türetilmiştir
 - `Kategori`: Harcamaların ya da gelirlerin ait olduğu gruplar
-- 
