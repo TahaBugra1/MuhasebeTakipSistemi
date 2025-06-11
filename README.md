@@ -21,7 +21,8 @@ Bu proje, kişisel veya küçük işletme muhasebe işlemlerini takip etmek içi
 - *Özet Paneli*: Hızlı finansal durum görünümü
 - *Form Validasyonu*: Hatalı veri girişlerini önleme
 
-- ![WhatsApp Görsel 2025-06-11 saat 18 49 26_74658a9d](https://github.com/user-attachments/assets/9b041885-57f2-4337-9e9f-1a9eabe6a2fd)
+- ![image](https://github.com/user-attachments/assets/4b54666a-f358-4d56-8e0f-400dd425f87a)
+
 
 
 ## Teknik Özellikler
