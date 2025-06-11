@@ -72,19 +72,7 @@ Bu proje, kişisel veya küçük işletme muhasebe işlemlerini takip etmek içi
 ## Proje Yapısı
 
 
-MuhasebeTakip/
-├── Models/
-│   ├── Islem.cs           # Temel işlem sınıfı
-│   ├── Gelir.cs           # Gelir işlemi sınıfı
-│   ├── Gider.cs           # Gider işlemi sınıfı
-│   └── Kategori.cs        # Kategori sınıfı
-├── Managers/
-│   ├── IslemYoneticisi.cs      # İşlem yönetimi
-│   └── KategoriYoneticisi.cs   # Kategori yönetimi
-├── Forms/
-│   └── AnaForm.cs         # Ana form
-│   └── Form1.cs           # Form1
-└── Program.cs             # Uygulama giriş noktası
+<pre> ``` MuhasebeTakip/ ├── Models/ │ ├── Islem.cs # Temel işlem sınıfı │ ├── Gelir.cs # Gelir işlemi sınıfı │ ├── Gider.cs # Gider işlemi sınıfı │ └── Kategori.cs # Kategori sınıfı ├── Managers/ │ ├── IslemYoneticisi.cs # İşlem yönetimi │ └── KategoriYoneticisi.cs# Kategori yönetimi ├── Forms/ │ ├── AnaForm.cs # Ana form │ └── Form1.cs # Form1 └── Program.cs # Uygulama giriş noktası ``` </pre>
 
 
 ## OOP Prensipleri
