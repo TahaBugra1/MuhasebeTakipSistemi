@@ -132,11 +132,3 @@ MuhasebeTakip/
 ## Lisans
 
 Bu proje eğitim amaçlı geliştirilmiştir ve açık kaynak kodludur.
-
-## İletişim
-
-Sorularınız veya önerileriniz için issue açabilirsiniz.
-
----
-
-*Not*: Bu uygulama demo amaçlı geliştirilmiştir. Gerçek muhasebe işlemleri için profesyonel muhasebe yazılımları kullanmanız önerilir.
