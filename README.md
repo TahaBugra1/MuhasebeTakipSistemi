@@ -132,3 +132,8 @@ MuhasebeTakip/
 ## Lisans
 
 Bu proje eğitim amaçlı geliştirilmiştir ve açık kaynak kodludur.
+
+## Geliştiriciler
+
+- Taha Buğra AK
+- Mustafa ÇEKCEOĞLU
