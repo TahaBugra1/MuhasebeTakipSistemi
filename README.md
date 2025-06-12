@@ -21,7 +21,7 @@ Bu proje, kişisel veya küçük işletme muhasebe işlemlerini takip etmek içi
 - *Özet Paneli*: Hızlı finansal durum görünümü
 - *Form Validasyonu*: Hatalı veri girişlerini önleme
 
-- ![image](https://github.com/user-attachments/assets/4b54666a-f358-4d56-8e0f-400dd425f87a)
+![image](https://github.com/user-attachments/assets/4b54666a-f358-4d56-8e0f-400dd425f87a)
 
 
 
